@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity eddc157b7906288b</metadata>
-  <rect width="64" height="64" rx="12" fill="hsl(52 66% 25%)"/>
-  <path d="M30 0h34v64H16Z" fill="hsl(121 61% 70%)" opacity="0.82"/>
-  <g transform="rotate(176 32 32)" opacity="0.42"><path d="M12 32c8-17 32-17 40 0-8 17-32 17-40 0Z" fill="none" stroke="#ffffff" stroke-width="6"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">BS</text>
+  <title>발산 노래방 링크</title>
+  <rect width="64" height="64" rx="13" fill="hsl(52 63% 21%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(128 68% 62%)" opacity="0.16"/>
+  <g transform="rotate(0 32 32)"><rect x="14" y="34" width="9" height="16" rx="2" fill="hsl(52 24% 96%)"/><rect x="27" y="26" width="9" height="24" rx="2" fill="hsl(52 24% 96%)"/><rect x="40" y="16" width="9" height="34" rx="2" fill="hsl(128 68% 62%)"/></g>
 </svg>
